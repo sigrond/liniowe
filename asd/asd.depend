@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1416057519 source:f:\moje dokumenty\aisdi\liniowe\asd.cc
+	<assert.h>
+	<algorithm>
+	<iostream>
+	"/materialy/AISDI/liniowe/ListMap.h"
+	"ListMap.h"
+	<map>
+
+1415830526 f:\moje dokumenty\aisdi\liniowe\listmap.h
+	<assert.h>
+	<stdlib.h>
+	<iterator>
+	<string>
+
+1415492473 source:f:\moje dokumenty\aisdi\liniowe\main.cc
+	<iostream>
+	"/materialy/AISDI/liniowe/ListMap.h"
+	"timer.h"
+	"ListMap.h"
+
+1351142644 f:\moje dokumenty\aisdi\liniowe\timer.h
+
